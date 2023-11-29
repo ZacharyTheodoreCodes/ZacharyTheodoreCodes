@@ -2,11 +2,9 @@
 
 <h3 align="center">I'm a curious web developer who finds coding therapeutic 🍃 (at least until bug happened)</h3>
 
-- 📫 How to reach me **zacharytheodore.zac@gmail.com**
+- 📫 reach me **zacharytheodore.zac@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/zacharytheodore/](https://www.linkedin.com/in/zacharytheodore/)
-
-- ⚡ Fun fact **I always watch movies in 1,5x speed**
+- ⚡ Fun fact **I watch movies in 1,5x speed**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
